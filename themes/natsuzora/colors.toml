@@ -1,0 +1,35 @@
+# Natsuzora (夏空, "céu de verão"): tema escuro, a "noite de verão" do céu dos
+# wallpapers — azul-marinho profundo, texto cor de nuvem, destaque azul-céu,
+# grama, sol e coral claros. Nasceu claro (paleta base do Frutiger Aero,
+# github.com/VECTORG99/omarchy-frutiger-aero); virou escuro em 2026-10-20.
+mode = "dark"
+
+accent = "#6fb3dd"
+selection = "#2c4a62"
+muted = "#6b8394"
+
+background = "#15222e"
+dark_background = "#101b25"
+darker_background = "#0b141c"
+lighter_background = "#1d2e3c"
+
+foreground = "#dbe6ec"
+dark_foreground = "#8aa0ae"
+light_foreground = "#b8cad4"
+bright_foreground = "#f3f7f8"
+
+red = "#e07a70"
+yellow = "#e3c56a"
+orange = "#e59a5c"
+green = "#9cc47a"
+cyan = "#6cc4cc"
+blue = "#6fa8dc"
+magenta = "#c49ad8"
+brown = "#a07a58"
+
+bright_red = "#f0918a"
+bright_yellow = "#f0d685"
+bright_green = "#b4d690"
+bright_cyan = "#8ad6dc"
+bright_blue = "#8fc0ea"
+bright_magenta = "#d6b2e6"

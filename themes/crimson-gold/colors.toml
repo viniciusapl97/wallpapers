@@ -1,0 +1,41 @@
+# Crimson Gold, versão para sessões longas (ajuste local, 2026-10-20).
+# O original pintava todo o texto de dourado saturado sobre vinho saturado e
+# usava vermelho em quase todas as cores ANSI. Aqui o carmim e o dourado ficam
+# como acento sobre um carvão quente, o texto é pergaminho e as cores ANSI
+# voltam a ser distintas e suaves. Original: git -C ~/.config/omarchy/themes/crimson-gold diff
+mode = "dark"
+
+accent = "#c8a24e"
+selection = "#3d2426"
+muted = "#7d6a66"
+
+background = "#1b1415"
+dark_background = "#140f10"
+darker_background = "#0e0a0b"
+lighter_background = "#261c1d"
+
+login_background = "#3a1416"
+login_foreground = "#d6b25e"
+
+foreground = "#e3d5c6"
+dark_foreground = "#8e7d74"
+light_foreground = "#c9b9a8"
+bright_foreground = "#f2e8dc"
+
+hyprland_active_border = "rgba(b04a4cff) rgba(c8a24eff) 90deg"
+
+red = "#d0605e"
+yellow = "#d6b25e"
+orange = "#d08a52"
+green = "#a3b06a"
+cyan = "#7fb0a6"
+blue = "#8ea4c8"
+magenta = "#c27b8f"
+brown = "#8c4a3e"
+
+bright_red = "#e07b77"
+bright_yellow = "#e4c47a"
+bright_green = "#b8c483"
+bright_cyan = "#9cc6bd"
+bright_blue = "#a9bbd8"
+bright_magenta = "#d495a6"

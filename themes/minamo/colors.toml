@@ -1,0 +1,33 @@
+# Minamo (水面, "superfície da água"): tema escuro feito a partir dos wallpapers
+# aquáticos em verde-água e ciano, com coral dos peixinhos dourados.
+mode = "dark"
+
+accent = "#2fd1b8"
+selection = "#1f4d4c"
+muted = "#5c8a80"
+
+background = "#102a2b"
+dark_background = "#0b2021"
+darker_background = "#071718"
+lighter_background = "#18393a"
+
+foreground = "#d9ece4"
+dark_foreground = "#7fa69a"
+light_foreground = "#abcaa5"
+bright_foreground = "#f1faf6"
+
+red = "#f07a6a"
+yellow = "#e8cf7a"
+orange = "#f2a061"
+green = "#5cd1a0"
+cyan = "#09d1ca"
+blue = "#5aa9d6"
+magenta = "#d38bbf"
+brown = "#a49469"
+
+bright_red = "#ff9585"
+bright_yellow = "#f5e09a"
+bright_green = "#7fe3b8"
+bright_cyan = "#4ae3dc"
+bright_blue = "#7fc0e6"
+bright_magenta = "#e5a6d2"
